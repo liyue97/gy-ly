@@ -1,0 +1,4 @@
+.ider/
+venv/
+__pycache__/
+.git/
